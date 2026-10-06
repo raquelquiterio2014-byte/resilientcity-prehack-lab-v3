@@ -40,12 +40,18 @@ Photos in the web demo come from Wikimedia Commons, used under their licenses (C
 
 The desktop GUI uses the images in `assets/` (header, agent architecture and operations reference). It opens maximized; on screens shorter than 900 px (for example 1366x768 laptops) it switches to a compact layout with half-size images so the whole window fits on screen.
 
-<img width="1366" height="721" alt="Resilient City AI 3" src="https://github.com/user-attachments/assets/04adbed2-6024-4249-8536-207468dc46f2" />
+<img width="1536" height="1024" alt="ResilientCity AI_ Resposta a Enchentes (1)" src="https://github.com/user-attachments/assets/fd22b1d0-0995-40d7-a197-a97c2b224bf3" />
+
+<img width="3800" height="2520" alt="ResilientCity_V3_Use_Case_Diagram_EN" src="https://github.com/user-attachments/assets/4472f63c-3e73-437c-9406-c9e537266554" />
 
 
 <img width="1414" height="692" alt="image" src="https://github.com/user-attachments/assets/5e4e95aa-bb99-4742-987e-334ceb924a93" />
 
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/761437d2-52da-4106-8dea-a4e64d65088a" />
+
+<img width="1366" height="724" alt="Resilient City AI 2" src="https://github.com/user-attachments/assets/4d0c05a2-537e-4419-9eb3-8e2ec2e7c376" />
+
+<img width="1366" height="721" alt="Resilient City AI 3" src="https://github.com/user-attachments/assets/04adbed2-6024-4249-8536-207468dc46f2" />
 
 
 
