@@ -32,6 +32,13 @@ The GUI accepts incident data and displays the final recommendation, confidence,
 
 Photos in the web demo come from Wikimedia Commons, used under their licenses (CC BY 4.0, CC BY-SA 2.0, CC BY 2.0, CC0); authors and links are credited in the page footer.
 
+
+
+
+
 ## Visual desktop interface (v3)
 
 The desktop GUI uses the images in `assets/` (header, agent architecture and operations reference). It opens maximized; on screens shorter than 900 px (for example 1366x768 laptops) it switches to a compact layout with half-size images so the whole window fits on screen.
+
+<img width="1366" height="721" alt="Resilient City AI 3" src="https://github.com/user-attachments/assets/04adbed2-6024-4249-8536-207468dc46f2" />
+
