@@ -42,3 +42,6 @@ The desktop GUI uses the images in `assets/` (header, agent architecture and ope
 
 <img width="1366" height="721" alt="Resilient City AI 3" src="https://github.com/user-attachments/assets/04adbed2-6024-4249-8536-207468dc46f2" />
 
+<img width="1366" height="721" alt="image" src="https://github.com/user-attachments/assets/d76a208b-d7c6-4353-a325-b4805ea0515d" />
+
+
