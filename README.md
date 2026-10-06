@@ -45,4 +45,7 @@ The desktop GUI uses the images in `assets/` (header, agent architecture and ope
 
 <img width="1414" height="692" alt="image" src="https://github.com/user-attachments/assets/5e4e95aa-bb99-4742-987e-334ceb924a93" />
 
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/761437d2-52da-4106-8dea-a4e64d65088a" />
+
+
 
